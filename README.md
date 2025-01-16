@@ -28,16 +28,3 @@ This application is a simple product management system built with Go, utilizing 
 * **pgx:** A PostgreSQL driver for Go.
 * **godotenv:** For loading environment variables.
 * **CORS:**  Handles Cross-Origin Resource Sharing, enabling requests from different domains.
-
-## Getting Started
-
-### Prerequisites
-
-* Go installed on your system.
-* PostgreSQL server running and accessible.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
